@@ -1,3 +1,14 @@
 body {
-  background-color: purple;
+  background-color:pink;
+}
+.rose{
+  color: rgba(255, 0, 0, 0.5);
+}
+.rose{
+float: left;
+}
+.rose{
+  padding: 10px;
+  margin: 10px;
+
 }
